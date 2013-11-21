@@ -58,3 +58,7 @@
     uri: git://github.com/laas/rviz_plugin_covariance.git
     local-name: stacks/rviz_plugin_covariance
     version: groovy
+- git:
+    uri: https://github.com/bcoudrin/ros_sot_robot_model
+    local-name: stacks/ros_sot_robot_model
+    version: master
