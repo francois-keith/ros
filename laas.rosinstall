@@ -7,7 +7,7 @@
     local-name: stacks/motion_analysis_mocap
     version: groovy
 - git:
-    uri: git://github.com/stack-of-tasks/redundant_manipulator_control.git
+    uri: git://github.com/francois-keith/redundant_manipulator_control.git
     local-name: stacks/redundant_manipulator_control
     version: groovy
 - git:
