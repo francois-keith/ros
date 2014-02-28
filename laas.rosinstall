@@ -9,7 +9,7 @@
 - git:
     uri: git://github.com/francois-keith/redundant_manipulator_control.git
     local-name: stacks/redundant_manipulator_control
-    version: groovy
+    version: groovy_rebased
 - git:
     uri: git://github.com/stack-of-tasks/redundant_manipulator_control_tutorial.git
     local-name: stacks/redundant_manipulator_control_tutorial
